@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/InfinityMercury/Scripts/main/BladeBall/loader.lua",true))()
